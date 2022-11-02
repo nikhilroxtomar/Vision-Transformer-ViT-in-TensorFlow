@@ -1,8 +1,9 @@
 # Vision Transformer (ViT) in TensorFlow.
 The repository contains the code for the implementation of the Vision Transformer in the TensorFlow framework. <br/>
-Arxiv Paper: [AN IMAGE IS WORTH 16X16 WORDS:TRANSFORMERS FOR IMAGE RECOGNITION AT SCALE](https://arxiv.org/pdf/2010.11929.pdf) <br/>
 
-Blog Post: [Vision Transformer](https://idiotdeveloper.com/vision-transformer-an-image-is-worth-16x16-words-transformers-for-image-recognition-at-scale/) by Idiot Developer
+- Arxiv Paper: [AN IMAGE IS WORTH 16X16 WORDS:TRANSFORMERS FOR IMAGE RECOGNITION AT SCALE](https://arxiv.org/pdf/2010.11929.pdf)
+- Blog Post: [Vision Transformer](https://idiotdeveloper.com/vision-transformer-an-image-is-worth-16x16-words-transformers-for-image-recognition-at-scale/) by Idiot Developer
+- YouTube Tutorial: [Vision Transformer Implementation In TensorFlow](https://youtu.be/Fb1xsTXT4P8)
 
 ## Architecture
 | ![The block diagram of the Vision Transformer](img/vit.png) |
